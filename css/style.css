@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-size: 20px; */
+}
+
+.content_area{
+    left: 25%;
+    padding: 100px 50px 20px;
+}
+.left_bar a, .right_bar a{
+    color: black;
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+p{
+  font-size: 16px;
+  line-height: 2em;
+}
+.to_jump{
+  display:flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  padding-top: 100px;
+}
+/*-- eidit -->
